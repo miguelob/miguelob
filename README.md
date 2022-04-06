@@ -1,16 +1,22 @@
 Hi there 👋
 
-My name is Miguel and here you'll find some tools and code I've built or worked with, mainly around **Cybersecurity, Communications and Data Analytics**. 
+My name is Miguel and here you'll find some tools and code I've built or worked with, mainly around **Cybersecurity, Communications, VHDL, C programming of Microprocessors and Data Analytics**. 
 
 ---
 
-<a target="_blank" href="https://github.com/miguelob">
+<p align="center">
+  <a target="_blank" href="https://github.com/miguelob">
   <img alt="Miguel's GitHub Stats" align="center" src="https://github-readme-stats.vercel.app/api?username=miguelob&show_icons=true&theme=default&count_private=true" />
-</a>
+  </a>
+</p>
 
-<img align="center" margin-top="20px"
+<p align="center">
+  <img align="center" margin-top="20px"
     alt="Rubasace's most used languages"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=miguelob&show_icons=true&theme=default" />
+</p>
+
+--- 
 
 ## Life @Work 👨‍💻
 
