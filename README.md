@@ -1,6 +1,8 @@
 Hi there 👋
 
-My name is Rubén and here you'll find some tools I've built, mainly around **CI/CD and media automation**. 
+My name is Miguel and here you'll find some tools and code I've built or worked with, mainly around **Cybersecurity, Communications and Data Analytics**. 
+
+---
 
 <a target="_blank" href="https://github.com/miguelob">
   <img alt="Miguel's GitHub Stats" align="center" src="https://github-readme-stats.vercel.app/api?username=miguelob&show_icons=true&theme=default&count_private=true" />
@@ -8,7 +10,7 @@ My name is Rubén and here you'll find some tools I've built, mainly around **CI
 
 <img align="center" margin-top="20px"
     alt="Rubasace's most used languages"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=miguelob&show_icons=true&theme=vision-friendly-dark" />
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=miguelob&show_icons=true&theme=default" />
 
 ## Life @Work 👨‍💻
 
