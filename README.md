@@ -29,11 +29,10 @@ If you are interested in Cybersecurity, do not forget to check this repository o
 ---
 
 
-- 🔭 I’m currently working on Cybersecurity and Data analytics projects.
+- 🔭 I’m currently working on Cybersecurity and Computer Science.
 - 🌱 I’m currently learning about Telecommunications and Computer Science.
 - 👯 I’m looking to collaborate on Cybersecurity of Critial infrastructures.
 - 🤔 I’m looking for help with any of my repositories.
 - 💬 Ask me about anything you may find difficult on my repositories.
 - 📫 How to reach me: miguel.oleo@alu.comillas.edu or at my [Linkedin](https://www.linkedin.com/in/miguel-oleo-blanco/).
-- 😄 Pronouns: Migue.
 - ⚡ Fun fact: cyclist on my free time 🚵🏻.
