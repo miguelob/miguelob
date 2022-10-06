@@ -25,7 +25,6 @@ I'm a Masters Degree Telecommunication Engineering in Madrid (Spain). Currently 
 If you are interested in Cybersecurity, do not forget to check this repository out 💯:
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=miguelob&repo=ICS-Hacking)](https://github.com/miguelob/ICS-Hacking)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=miguelob&repo=ICS-Hacking)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
