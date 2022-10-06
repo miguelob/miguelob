@@ -6,14 +6,14 @@ My name is Miguel and here you'll find some tools and code I've built or worked 
 
 <p align="center">
   <a target="_blank" href="https://github.com/miguelob">
-  <img alt="Miguel's GitHub Stats" align="center" src="https://github-readme-stats.vercel.app/api?username=miguelob&show_icons=true&theme=default&count_private=true" />
+  <img alt="Miguel's GitHub Stats" align="center" src="https://github-readme-stats.vercel.app/api?username=miguelob&count_private=true&show_icons=true&theme=default" />
   </a>
 </p>
 
 <p align="center">
   <img align="center" margin-top="20px"
     alt="Rubasace's most used languages"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=miguelob&show_icons=true&theme=default" />
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=miguelob&exclude_repo=github-readme-stats" />
 </p>
 
 --- 
@@ -25,6 +25,7 @@ I'm a Masters Degree Telecommunication Engineering in Madrid (Spain). Currently 
 If you are interested in Cybersecurity, do not forget to check this repository out 💯:
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=miguelob&repo=ICS-Hacking)](https://github.com/miguelob/ICS-Hacking)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=miguelob&repo=ICS-Hacking)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
