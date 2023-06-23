@@ -20,7 +20,7 @@ My name is Miguel and here you'll find some tools and code I've built or worked 
 
 ## Life @Work 👨‍💻
 
-I'm a Masters Degree Telecommunication Engineering in Madrid (Spain). Currently studying the masters at ICAI (Madrid) and IIT (Chicago). During my degree i have developed several projects such as signal procesing, microprocessor programming, VHDL etc.
+I'm a Telecommunication Engineer graduated at ICAI (Madrid) and IIT (Chicago). During my degree i have developed several projects such as signal procesing, microprocessor programming, VHDL etc.
 
 If you are interested in Cybersecurity, do not forget to check this repository out 💯:
 
